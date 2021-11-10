@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anastasia, self starter blockchain developer, specialising in solidity.
-- 👀 Current Stack : HTML,CSS,Javascript/Typescript, SASS, React,Svetle,Solidity, Truffle, Ganache
+- 👀 Current Stack : HTML,CSS,Javascript/Typescript, SASS, React,Svelte,Solidity, Truffle, Ganache
                      
                     
 - 📫 Reach me zaan031193@ihtti-mail.ch
